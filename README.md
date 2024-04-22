@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CNN_LSTM
-=======
 # A Hybrid of CNN_LSTM for Covid 19 prediction Data Prediction App
 
 This Streamlit web application predicts COVID-19 data using Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) architecture.
@@ -42,5 +39,4 @@ This app loads COVID-19 data from an Excel file and allows users to select a cou
 The COVID-19 dataset is stored in an Excel file named COVID-19-DATA.xlsx. Make sure this file exists in the root directory before running the app.
 
 Note
-If the dataset file is not found, an error message will be displayed, prompting you to ensure that COVID-19-DATA.xlsx exists.
->>>>>>> 71cacf5 (model)
+If the dataset file is not found, an error message will be displayed, prompting you to ensure that COVID-19-DATA.xlsx 
